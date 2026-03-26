@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "TwinTurbo",
+  "base_track": "TotaKK",
   "base_artist": "ピーナッツくん",
-  "createdAt": "2026-03-25T15:32:32.226328Z",
+  "createdAt": "2026-03-26T01:45:31.471712Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "TwinTurbo",
-      "artist": "PeanutsKun",
-      "has_synced": false,
-      "path": "select/01_TwinTurbo_PeanutsKun.txt"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "TwinTurbo",
+      "title": "TotaKK",
       "artist": "ピーナッツくん",
       "has_synced": false,
-      "path": "select/pl_01_TwinTurbo_ピーナッツくん.txt"
+      "path": "select/pl_01_TotaKK_ピーナッツくん.txt"
     }
   ]
 }
